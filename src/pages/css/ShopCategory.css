@@ -1,0 +1,14 @@
+.shorted-items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 50px;
+    gap: 60px;
+    
+}
+.shop-category img{
+  
+    max-width: 100%;
+    padding-top: 50px;
+}

@@ -1,0 +1,58 @@
+.hero{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 100vh;
+    background-image: linear-gradient( rgba(0, 0, 255, 0.458) , white );
+ 
+}
+
+.hero-left-icons{
+    display: flex;
+    flex-direction: row;
+}
+
+.hero-left-icons img{
+    height: 50px;
+}
+
+.hero-left-icons p{
+   
+    font-size: 100px;
+}
+
+.hero-right img{
+   
+    height: 500px;
+    cursor: pointer;
+
+}
+
+.hero-right{
+    display: flex;
+    align-items: center;
+    justify-content:last baseline;
+    padding-left: 20px;
+ 
+}
+.hero-left{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 100px;
+   
+}
+.letest-collection-button{
+
+    border-radius: 50px;
+    width: 150px;
+    height: 50px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: none;
+    background-color: rgba(255, 0, 0, 0.71);
+    color: white;
+    cursor: pointer;
+}
