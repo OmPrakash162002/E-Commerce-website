@@ -14,7 +14,7 @@ function Hero() {
           <button className='letest-collection-button'>letest Collection <FaArrowRight/> </button>
       </div>
       <div className="hero-right">
-          <img src="s25.png" alt="" />
+          <img src="model.png" alt="" />
       </div>
     </div>
   )

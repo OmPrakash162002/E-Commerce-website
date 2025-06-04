@@ -27,8 +27,8 @@ function Footer() {
       {/* Contact & Social Media */}
       <div className="footer-section">
         <h2>Contact Us</h2>
-        <p>Email: support@shopease.com</p>
-        <p>Phone: +123 456 7890</p>
+        <p>Email: opv162002@gmail.com</p>
+        <p>Phone: 7067763502</p>
         <div className="social-icons">
           <FaFacebook className="icon" />
           <FaInstagram className="icon" />
